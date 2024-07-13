@@ -1,0 +1,70 @@
+.border1{
+    border: 4px;
+    border-radius: 25px;
+    height: 100ev;
+}
+.body{
+    background-color: lightsteelblue;
+}
+.boxback{
+    background-color:whitesmoke;
+}
+.buttonback{
+    background-color:lightslategray;
+    color:whitesmoke;
+}
+.head1{
+    color:whitesmoke;
+    font-size: 120px;
+    margin-top: 15%;
+    
+}
+.head1:hover{
+    color: black;
+}
+.nav1{
+    background-color: lightsteelblue;
+    
+}
+#navbarNav a{
+    color: whitesmoke;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 20px;
+}
+#navbarNav a:hover{
+    color: black;
+}
+.body1{
+    background-color: lightsteelblue;
+}
+.adminimg{
+    border: 1px;
+    border-radius: 50%;
+    width: 40px;
+    background-color: whitesmoke;
+
+}
+.main{
+    border: 1px;
+    padding: 8px;
+    border-radius: 30px;
+    background-color: whitesmoke;
+}
+.input{
+    background: transparent;
+    border: 0;
+    outline: 0px;
+    width: 300px;
+}
+.searchbutton{
+    border: 0;
+    outline: 0px;
+    background: transparent;
+    background-color: whitesmoke;
+}
+.table1{
+    border: 1px;
+    background-color: whitesmoke;
+    padding: 25px;
+}

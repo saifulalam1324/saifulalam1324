@@ -1,14 +1,6 @@
 # 👋 Hi, I'm Md Saiful Alam
 
 Welcome to my GitHub! I'm learning and building projects with a variety of programming languages and tools.
-
-## 🛠️ Skills
-
-**Frontend**
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript (basic)
-
 **Programming Languages**
 - 🐍 Python
 - ☕ Java

@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Saiful Alam
 
-<!--
-**saifulalam1324/saifulalam1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm learning and building projects with a variety of programming languages and tools.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript (basic)
+
+**Programming Languages**
+- 🐍 Python
+- ☕ Java
+- 🔷 Kotlin
+- 💻 C
+- ➕➕ C++
+
+Feel free to explore my repositories and projects. I'm always open to learning and improving! 🚀

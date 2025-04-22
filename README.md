@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Picture/My.png" alt="Saiful's Animation" width="100%" />
+</p>
+
 # 👋 Hi, I'm Md Saiful Alam
 
 Welcome to my GitHub! I'm learning and building projects with a variety of programming languages and tools.

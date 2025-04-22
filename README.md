@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/ab9e3882-4919-43eb-b239-3a54db7acf00
-
 # 👋 Hi, I'm Md Saiful Alam
 
 Welcome to my GitHub! I'm learning and building projects with a variety of programming languages and tools.

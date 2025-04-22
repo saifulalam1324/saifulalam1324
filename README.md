@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Asset/Saiful.png" alt="Saiful's Banner" width="100%" />
-</p>
-
 
 # 👋 Hi, I'm Md Saiful Alam
 

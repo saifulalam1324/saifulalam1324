@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Picture/MY3.gif" alt="Saiful's Animation" width="100%" height="450"/>
+  <img src="Picture/MY3.gif" alt="Saiful's Animation" width="100%" height="400"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Md Saiful Alam</h1>
@@ -112,10 +112,19 @@ I enjoy experimenting with different technologies and building projects that hel
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
----
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 # 🔬 Research Interests
 

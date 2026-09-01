@@ -212,11 +212,8 @@ I'm interested in collaborating on projects involving:
 **🌐 Web Development • 📱 Mobile Development • 🤖 AI • 🧠 ML • 📝 NLP • 📊 Data Science • ⚡ Big Data • 💻 Software Engineering**
 
 ---
+<h3 align="center">🤍 Thanks for visiting my GitHub profile!</h3>
 
 <p align="center">
-
-### ⭐ Thanks for visiting my GitHub profile!
-
-<img src="https://visitcount.itsvg.in/api?id=saifulalam1324&icon=0&color=0"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&width=100&section=footer&fontColor=FFFFFF" width="100%"/>
 </p>

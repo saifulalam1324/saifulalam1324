@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Picture/MY3.gif" alt="Saiful's Animation" width="100%"/>
+  <img src="Picture/MY3.gif" alt="Saiful's Animation" width="100%" height="450"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Md Saiful Alam</h1>
@@ -177,22 +177,6 @@ I enjoy experimenting with different technologies and building projects that hel
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saifulalam1324&theme=dark&hide_border=true" height="180" />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulalam1324&theme=github-dark&hide_border=true" width="95%" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifulalam1324&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" width="90%" />
 </p>
 
 ---

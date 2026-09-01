@@ -117,9 +117,6 @@ I enjoy experimenting with different technologies and building projects that hel
 
 ---
 
-
----
-
 # 🔬 Research Interests
 
 <p align="center">
@@ -163,15 +160,6 @@ I enjoy experimenting with different technologies and building projects that hel
 ✓ Build Useful & Intelligent Applications
 ✓ Continue Learning & Experimenting
 ```
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifulalam1324&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulalam1324&layout=compact&hide_border=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 

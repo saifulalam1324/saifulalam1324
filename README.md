@@ -164,29 +164,36 @@ I enjoy experimenting with different technologies and building projects that hel
 ✓ Continue Learning & Experimenting
 ```
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifulalam1324&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulalam1324&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saifulalam1324&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulalam1324&layout=compact&hide_border=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saifulalam1324&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=saifulalam1324&theme=dark&hide_border=true" height="180" />
 </p>
+
+---
 
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulalam1324&bg_color=0D1117&color=FFFFFF&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulalam1324&theme=github-dark&hide_border=true" width="95%" />
 </p>
+
+---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saifulalam1324&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" width="90%" />
 </p>
-
 
 ---
 

@@ -9,11 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Web+Developer;Mobile+App+Developer;AI+%2F+ML+Enthusiast;NLP+Enthusiast;Data+Science+Learner;Big+Data+Explorer&font=Fira%20Code&center=true&width=650&height=50&color=00FF00&background=0D1117&vCenter=true&pause=1000&size=22">
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saifulalam1324&label=Profile%20Views&color=00ff00&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/saifulalam1324?label=Followers&style=for-the-badge&color=00ff00&labelColor=0D1117" />
-</p>
-
 ---
 
 # 👨‍💻 About Me

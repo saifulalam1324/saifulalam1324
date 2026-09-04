@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Web+Developer;Mobile+App+Developer;AI+%2F+ML+Enthusiast;NLP+Enthusiast;Data+Science+Learner;Big+Data+Explorer&font=Fira%20Code&center=true&width=650&height=50&color=00FF00&background=0D1117&vCenter=true&pause=1000&size=22">
 </p>
----
 
 # 👨‍💻 About Me
 

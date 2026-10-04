@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pic-4.jpg" alt="Saiful's Animation" width="100%" height="300"/>
+  <img src="Banner.png" alt="Saiful's Animation" width="100%" height="300"/>
 </p>
 <h1 align="center">👋 Hi, I'm Md Saiful Alam</h1>
 
